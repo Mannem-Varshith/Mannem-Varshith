@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mannem-Varshith
 - 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning B.TECH in CSE in MBU
+- 🌱 I’m currently learning AWS Certified Cloud Practitioner 
 - 📫 How to reach me contact through mail:- mannem.varshith152212@gmail.com
 
 <!---
