@@ -9,7 +9,7 @@
   - **Languages**: C, Java, Python, JavaScript, PHP, SQL
   - **Web**: HTML, CSS, JS, PHP
   - **Database**: MySQL, SQL
-- 📫 Reach me: **mannem.varshith152212@gmail.com**
+- 📫 Reach me: **mannem.varshith1205@gmail.com**
 
 ---
 
