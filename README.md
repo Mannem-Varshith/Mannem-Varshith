@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @Mannem-Varshith
-- 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning AWS Certified Cloud Practitioner 
-- 📫 How to reach me contact through mail:- mannem.varshith152212@gmail.com
+# 👋 Hi there, I'm Varshith Mannem (@Mannem-Varshith)
 
-<!---
-Mannem-Varshith/Mannem-Varshith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Aspiring Web Developer | Cloud Enthusiast | CSE Student
+
+- 👀 I’m passionate about **Web Development** and building real-world projects
+- 🌱 Currently learning: **AWS Certified Cloud Practitioner**
+- 💬 Ask me about: `Web Dev`, `Java`, `Python`, `Databases`
+- ✨ Tech Stack:
+  - **Languages**: C, Java, Python, JavaScript, PHP, SQL
+  - **Web**: HTML, CSS, JS, PHP
+  - **Database**: MySQL, SQL
+- 📫 Reach me: **mannem.varshith152212@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+- LinkedIn: *(https://www.linkedin.com/in/mannem-varshith/)*  
+
+
