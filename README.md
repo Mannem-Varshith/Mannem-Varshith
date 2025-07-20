@@ -17,28 +17,9 @@ Currently on a journey to master modern web development and get AWS Certified!
 
 ---
 
-## 🧰 Tech Stack
+## 📊 Most Used Languages
 
-### 💻 Languages:
-`C` &nbsp;|&nbsp; `Java` &nbsp;|&nbsp; `Python` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `PHP` &nbsp;|&nbsp; `SQL`
-
-### 🌐 Web Development:
-`HTML` &nbsp;|&nbsp; `CSS` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `PHP`
-
-### 🛢️ Databases:
-`MySQL` &nbsp;|&nbsp; `SQL`
-
-### ☁️ Cloud & Tools:
-`AWS` (Learning) &nbsp;|&nbsp; `Git & GitHub` &nbsp;|&nbsp; `VS Code` &nbsp;|&nbsp; `Postman`
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mannem-Varshith&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannem-Varshith&layout=compact&theme=radical" width="48%" />
-</p>
+<img src="https://raw.githubusercontent.com/Mannem-Varshith/Mannem-Varshith/main/assets/most-used-languages.png" alt="Most Used Languages" width="500"/>
 
 ---
 
