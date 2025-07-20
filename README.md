@@ -29,7 +29,7 @@ Currently on a journey to master modern web development and get AWS Certified!
 `MySQL` &nbsp;|&nbsp; `SQL`
 
 ### ☁️ Cloud & Tools:
-`AWS` (Learning) &nbsp;|&nbsp; `Git & GitHub` &nbsp;|&nbsp; `VS Code` &nbsp;|&nbsp; `Postman`
+`AWS` (Learning) &nbsp;|&nbsp; `Git & GitHub` &nbsp;|&nbsp; `VS Code`
 
 ---
 
