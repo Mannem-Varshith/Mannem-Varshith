@@ -35,8 +35,7 @@ Currently on a journey to master modern web development and get AWS Certified!
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannem-Varshith&layout=compact&theme=radical" width="48%" />
 </p>
 
