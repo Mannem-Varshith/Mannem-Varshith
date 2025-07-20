@@ -33,8 +33,6 @@ Currently on a journey to master modern web development and get AWS Certified!
 
 ---
 
-
-
 ## 📫 Let's Connect!
 
 - 📧 Email: **mannem.varshith1205@gmail.com**
